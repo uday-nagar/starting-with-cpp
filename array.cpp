@@ -6,5 +6,17 @@ int main(){
     for(int i=0; i<5; i++){
         cout<<arr[i]<<" index "<<i<<endl;
     }
+
+    //2d array
+    int arr2[2][3];
+    for(int i=0; i<2; i++){
+        for(int j=0; j<3; j++){
+            cin>>arr2[i][j];
+        }
+    }
+
+    //string is an array of characters
+
+    
     return 0;
 }
