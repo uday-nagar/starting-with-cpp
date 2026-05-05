@@ -1,2 +1,5 @@
 hello world
 3
+inside function 10
+10
+5
